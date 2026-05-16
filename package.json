@@ -1,0 +1,14 @@
+{
+  "name": "rulebot",
+  "version": "1.0.0",
+  "description": "Discord reaction role bot",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js",
+    "test": "echo \"No tests configured\""
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "dotenv": "^16.6.1"
+  }
+}
